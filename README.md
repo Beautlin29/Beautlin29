@@ -7,7 +7,7 @@
 </div>
 <h3 align="Middle">Info about me :</h3>
 
-- I am currently an undergraduate student pursuing Electronics and Communication Engineering at Anna University. My academic pursuits are complemented by a keen interest in exploring diverse topics and domains, with a focus on Machine Learning, Computer Architecture and Digital Electronics.
+- I have completed my Bachelors in Electronics and Communication Engineering at Anna University. My academic pursuits are complemented by a keen interest in exploring diverse topics and domains, with a focus on Machine Learning, Computer Architecture and Digital Electronics.
 
 - I am committed to expanding my knowledge and understanding in these areas, and I am enthusiastic about engaging in meaningful projects and collaborations that contribute to these fields.
 
