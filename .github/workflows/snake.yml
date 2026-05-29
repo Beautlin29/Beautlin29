@@ -8,13 +8,19 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write        # <-- THIS was the missing line causing your failure
+
     steps:
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
-          github_user_name: Beautlin29
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
