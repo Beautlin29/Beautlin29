@@ -31,7 +31,7 @@ module beautlin_s (
   localparam string FOCUS    = "Crypto IP Design & Simulation";
   localparam string INTEREST = "RTL Design | Computer Architecture | AI Accelerators";
 
-  localparam string HDL      = "SystemVerilog | UVM | TL-Verilog";
+  localparam string HDL      = "SystemVerilog | UVM";
   localparam string TOOLS    = "Cadence Xcelium | Jasper | Linux";
   localparam string PROTOS   = "AXI4 | AHB | UART | SPI";
 
@@ -79,7 +79,6 @@ endmodule
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-00897B?style=for-the-badge&logoColor=white)
 ![UVM](https://img.shields.io/badge/UVM-00695C?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-00796B?style=for-the-badge&logoColor=white)
-![TL-Verilog](https://img.shields.io/badge/TL--Verilog-26A69A?style=for-the-badge&logoColor=white)
 
 **EDA Tools**
 
