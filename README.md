@@ -51,10 +51,10 @@ endmodule
 
 | Where | Role | What |
 |---|---|---|
-| **C-DAC Bangalore** | Apprentice *(Sept 2025 – Present)* | Crypto IP Design & Simulation under Aneesh Raveendran |
+| **C-DAC Bangalore** | Apprentice *(Sept 2025 – Present)* | Crypto IP Design & Simulation |
 | **IIT Madras – RISE Lab** | Research Intern *(Jan – Apr 2025)* | ML benchmarking on the Shakti RISC-V processor |
 | **IISc – DREAM Lab** | Research Intern *(Nov 2023 – Jan 2024)* | Time & power prediction for DNN workloads on edge accelerators |
-| **IIITDM – HPRCSE Lab** | Research Intern *(May – Jun 2023)* | FSM-based fault mitigation for mission-critical control circuits |
+| **IIITDM – HPRCSE Lab** | Research Intern *(May – Jun 2023)* | Fault mitigation for mission-critical control circuits |
 
 ---
 
